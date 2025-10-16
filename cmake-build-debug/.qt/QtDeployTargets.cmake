@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_navigationich_FILE /Users/semionraitsev/navigationich/cmake-build-debug/navigationich.app/Contents/MacOS/navigationich)
+set(__QT_DEPLOY_TARGET_navigationich_TYPE EXECUTABLE)

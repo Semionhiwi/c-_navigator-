@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/Users/semionraitsev/navigationich/build/Qt_6_8_0_for_macOS-Debug/navigationich_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/semionraitsev/navigationich/build/Qt_6_8_0_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/semionraitsev/navigationich/build/Qt_6_8_0_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/semionraitsev/navigationich",
+	"CMAKE_SOURCE_DIR" : "/Users/semionraitsev/navigationich",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/Users/semionraitsev/navigationich/build/Qt_6_8_0_for_macOS-Debug/navigationich_autogen/include",
+	"INPUTS" : [ "/Users/semionraitsev/navigationich/deutschland-karte.png" ],
+	"LOCK_FILE" : "/Users/semionraitsev/navigationich/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/navigationich_autogen.dir/AutoRcc_deutschlandkarte_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "deutschlandkarte" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_deutschlandkarte.cpp",
+	"RCC_EXECUTABLE" : "/Users/semionraitsev/Qt/Licenses/Qt2/6.8.0/macos/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/semionraitsev/navigationich/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/navigationich_autogen.dir/AutoRcc_deutschlandkarte_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/semionraitsev/navigationich/deutschlandkarte.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

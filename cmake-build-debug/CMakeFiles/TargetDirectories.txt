@@ -1,0 +1,9 @@
+/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/navigationich.dir
+/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/install.dir
+/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/navigationich_autogen_timestamp_deps.dir
+/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/navigationich_autogen.dir

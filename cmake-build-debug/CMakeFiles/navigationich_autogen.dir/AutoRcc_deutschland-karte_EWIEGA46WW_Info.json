@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/Users/semionraitsev/navigationich/cmake-build-debug/navigationich_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/semionraitsev/navigationich/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/semionraitsev/navigationich/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/semionraitsev/navigationich",
+	"CMAKE_SOURCE_DIR" : "/Users/semionraitsev/navigationich",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/Users/semionraitsev/navigationich/cmake-build-debug/navigationich_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/semionraitsev/navigationich/866-8664209_leer-deutschland-karte.png"
+	],
+	"LOCK_FILE" : "/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/navigationich_autogen.dir/AutoRcc_deutschland-karte_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "deutschland_karte" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_deutschland-karte.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/semionraitsev/navigationich/cmake-build-debug/CMakeFiles/navigationich_autogen.dir/AutoRcc_deutschland-karte_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/semionraitsev/navigationich/deutschland-karte.qrc",
+	"VERBOSITY" : 0
+}

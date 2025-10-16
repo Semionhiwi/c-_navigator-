@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_navigationich_FILE /Users/semionraitsev/navigationich/build/Qt_6_8_0_for_macOS-Debug/navigationich.app/Contents/MacOS/navigationich)
+set(__QT_DEPLOY_TARGET_navigationich_TYPE EXECUTABLE)

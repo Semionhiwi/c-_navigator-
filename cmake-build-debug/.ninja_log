@@ -1,0 +1,17 @@
+# ninja log v5
+1	845	1760523831661987356	navigationich_autogen/timestamp	42c1ce5dba7f5632
+1	845	1760523831661987356	navigationich_autogen/mocs_compilation.cpp	42c1ce5dba7f5632
+1	845	1760523831661987356	/Users/semionraitsev/navigationich/cmake-build-debug/navigationich_autogen/timestamp	42c1ce5dba7f5632
+1	845	1760523831661987356	/Users/semionraitsev/navigationich/cmake-build-debug/navigationich_autogen/mocs_compilation.cpp	42c1ce5dba7f5632
+845	879	1760523831705887630	navigationich_autogen/EWIEGA46WW/qrc_deutschland-karte.cpp	a8f32979caf55f46
+845	879	1760523831705887630	/Users/semionraitsev/navigationich/cmake-build-debug/navigationich_autogen/EWIEGA46WW/qrc_deutschland-karte.cpp	a8f32979caf55f46
+880	1490	1760523832312056809	CMakeFiles/navigationich.dir/address.cpp.o	2a22e682ed1f263e
+880	1494	1760523832312061642	CMakeFiles/navigationich.dir/pointofinterest.cpp.o	4140e5906d40ffa2
+880	1545	1760523832365750976	CMakeFiles/navigationich.dir/place.cpp.o	89aed32bdfd56165
+1545	1662	1760523832487239403	CMakeFiles/navigationich.dir/navigationich_autogen/EWIEGA46WW/qrc_deutschland-karte.cpp.o	fa698c672ccacca2
+880	2209	1760523833025456738	CMakeFiles/navigationich.dir/main.cpp.o	310f90f6e075cd3d
+880	2237	1760523833057118081	CMakeFiles/navigationich.dir/navigationich_autogen/mocs_compilation.cpp.o	7038b0469f467b46
+880	2548	1760523833366655280	CMakeFiles/navigationich.dir/mainwindow.cpp.o	c7e8a5b69fb6f18c
+1494	2580	1760523833401516907	CMakeFiles/navigationich.dir/addresswidget.cpp.o	bbe88ddfcb47b291
+1493	2584	1760523833405553814	CMakeFiles/navigationich.dir/addlocationdialog.cpp.o	6a6b1f05d80fb908
+2584	2778	1760523833599332739	navigationich.app/Contents/MacOS/navigationich	6d016fff091f815f

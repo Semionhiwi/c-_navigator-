@@ -1,0 +1,28 @@
+1;Berlin;52.516300;13.377700
+2;Stuttgart;48.783300;9.183300
+3;München;48.135100;11.582000
+4;Potsdam;52.390600;13.064500
+5;Bremen;53.079300;8.801700
+6;Hamburg;53.550300;10.000700
+7;Hannover;52.375900;9.732000
+8;Wiesbaden;50.082600;8.241600
+9;Schwerin;53.629400;11.413200
+10;Magdeburg;52.120500;11.627600
+11;Düsseldorf;51.227700;6.773500
+12;Mainz;49.992900;8.247300
+13;Saarbrücken;49.240000;6.996900
+14;Dresden;51.050400;13.737300
+15;Kiel;54.323300;10.139400
+16;Erfurt;50.978700;11.032800
+17;Neuschwanstein;47.557600;10.749800;Sehenswürdigkeit;schloss
+18;Bodensee;47.650000;9.250000;Sehenswürdigkeit;See
+19;Sächsische Schweiz;50.883300;14.200000;Sehenswürdigkeit;Nationalpark
+20;Zugspitze;47.421000;10.985200;Sehenswürdigkeit;Berg
+21;Burg Hohenzollern;48.362300;8.974700;Sehenswürdigkeit;Burg
+22;Passau;48.566700;13.431900
+23;Konstanz;47.658200;9.191600
+24;Cottbus;51.756300;14.332600
+25;Lange Anna;54.181000;7.882900;Sehenswürdigkeit;Felsen
+26;h_da;49.871700;8.631800;Bildungseinrichtung;Hochschule
+27;1;1;1;1
+28;1;11;11;1
