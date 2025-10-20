@@ -6,6 +6,11 @@ Built from scratch as a semester-long university project, demonstrating proficie
 ![C++](https://img.shields.io/badge/C++-78%25-00599C?logo=cplusplus)
 ![Qt](https://img.shields.io/badge/Qt-Widgets-41CD52?logo=qt)
 
+
+
+
+![navi gif](https://github.com/user-attachments/assets/63a734cc-b16d-4abd-9ef4-1b3bc0b0e9d7)
+
 ---
 
 ## Project Overview
